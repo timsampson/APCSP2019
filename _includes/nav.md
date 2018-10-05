@@ -11,7 +11,7 @@
 
 ***
 
-* [APCS Principles]({{ "/periods/1" | relative_url }})
+* [DIS APCS Page]({{ "/periods/1" | relative_url }})
 
 ***
 
