@@ -1,4 +1,4 @@
 # [DIS CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+Based on Harvard University\\
+2019-20
